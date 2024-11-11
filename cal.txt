@@ -1,1 +1,3 @@
 working on a calulator code
+
+charging at a same point of time
